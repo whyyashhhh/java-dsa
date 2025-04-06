@@ -7,7 +7,7 @@ public class swwitch {
          // if we press 1 it will print namaste //
          // if 2 then bojour//
          //if 3 then gracias//
-         //gg
+         //gg//rr//
 
          switch (button) {
             case 1: System.out.println("namaste");
