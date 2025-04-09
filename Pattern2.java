@@ -9,11 +9,12 @@ public class Pattern2 {
             for(int j = 1; j<=m; j++){
                 //cell-> (i,j)
                 if(i == 1 || j == 1 || i == n || j == m){
-                    System.err.print("*");
+                    System.out.print("*");
+                } else {
+                    System.out.print(" ");
                 }
-                
             }
-            System.err.println();
+            System.out.println();
         }
     }
 }
